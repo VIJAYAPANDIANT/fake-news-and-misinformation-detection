@@ -24,7 +24,14 @@ graph TD
 
 ## 🚀 Setup & Local Execution Guide
 
-To run this project locally, clone the repository and follow the setup instructions for each service:
+To run this project locally, clone the repository:
+
+```bash
+git clone https://github.com/VIJAYAPANDIANT/fake-news-and-misinformation-detection.git
+cd fake-news-and-misinformation-detection
+```
+
+And follow the setup instructions for each service:
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16+ recommended)
@@ -172,4 +179,4 @@ To run this project locally, clone the repository and follow the setup instructi
 ---
 
 ## 📄 License
-Distributed under the ISC License. See `backend/package.json` for license info.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
